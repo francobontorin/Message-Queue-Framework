@@ -14,3 +14,7 @@ Features
   * Flexible and Easy to support 
   * It covers MQ pre verifications, installation and post functions 
 
+Author
+  Franco Bontorin (francobontorin at gmail.com)
+  
+
