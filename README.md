@@ -1,5 +1,5 @@
 Message Queue Framework
-======================
+-
 
 Framework to fully automate WebSphere MQ Installation in any KSH Based UNIX Platform:
 
@@ -8,16 +8,19 @@ Framework to fully automate WebSphere MQ Installation in any KSH Based UNIX Plat
   * It is supported on Unix/Linux platforms
   * MQ installation via Framework already bakes in IBM’s standard configurations and recommendations
   
-Features
-======================
+<b>Features<b/>
+
 
   * Modular framework developed in Shell/Perl Script 
   * Korn Shell Compliance (AIX/Linux/Solaris) 
   * Flexible and Easy to support 
   * It covers MQ pre verifications, installation and post functions 
 
-Author
-======================
+<b>Author<b/>
+
   * Franco Bontorin (francobontorin at gmail.com)
   * Senior Unix Architect
 
+<b>Date<b/>
+
+  * December 8th
