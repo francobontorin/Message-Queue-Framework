@@ -9,12 +9,15 @@ Framework to fully automate WebSphere MQ Installation in any KSH Based UNIX Plat
   * MQ installation via Framework already bakes in IBM’s standard configurations and recommendations
   
 Features
+======================
+
   * Modular framework developed in Shell/Perl Script 
   * Korn Shell Compliance (AIX/Linux/Solaris) 
   * Flexible and Easy to support 
   * It covers MQ pre verifications, installation and post functions 
 
 Author
-  Franco Bontorin (francobontorin at gmail.com)
-  
+======================
+  * Franco Bontorin (francobontorin at gmail.com)
+  * Senior Unix Architect
 
