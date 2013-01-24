@@ -21,6 +21,9 @@ Framework to fully automate WebSphere MQ Installation in any KSH Based UNIX Plat
   * Franco Bontorin (francobontorin at gmail.com)
   * Senior Unix Architect
 
+<b>License<b/>
+  * This is under GNU GPL v2 license.
+
 <b>Date<b/>
 
   * December 8th
