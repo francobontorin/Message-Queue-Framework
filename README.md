@@ -23,6 +23,11 @@ Framework to fully automate WebSphere MQ Installation in any KSH Based UNIX Plat
 <b>License<b/>
   * This is under GNU GPL v2
 
+<b>Limitations<b/>
+
+  * Here are only the scripts to automate the installation of IBM Websphere Message Queue. 
+  * In order to have the binaries, you must contact a IBM representant.
+
 <b>Date<b/>
 
-  * December 8th
+  * December 2012
